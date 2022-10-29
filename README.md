@@ -1,4 +1,4 @@
-<h1> Hi, I'm Jake! <img src="https://media.giphy.com/media/6NIC5qDsDC5uE/giphy.gif" width="50"></h1>
+<h1> Hi, I'm ! <img src="https://media.giphy.com/media/6NIC5qDsDC5uE/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="230">
 <p><em>Amateur Coder!</p>
 
@@ -16,7 +16,7 @@
 
 *****
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
-![Jake's's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wimpyjake&hide=["stars"]&show_icons=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=wimpyjake&hide=["stars"]&show_icons=true)
 *****
 <br/>
 <p>Visit my profile and give a ⭐️ if you like it! ㅤ</p> 
